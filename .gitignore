@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Env files
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# React or Vite cache
+.cache/
+.next/
+out/
+
+# Coverage reports
+coverage/
+
+# Misc
+*.swp
+*.swo
